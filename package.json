@@ -1,0 +1,12 @@
+{
+  "name": "tilelive-error",
+  "version": "0.0.0",
+  "description": "Avoid repeating error-prone initialization",
+  "main": "index.js",
+  "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojodna/tilelive-error.git"
+  }
+}
