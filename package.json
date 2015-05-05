@@ -1,6 +1,6 @@
 {
   "name": "tilelive-error",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Avoid repeating error-prone initialization",
   "main": "index.js",
   "author": "Seth Fitzsimmons <seth@mojodna.net>",
