@@ -8,7 +8,7 @@ Return `TileliveError` instances to avoid repeating potential expensive and
 ultimately error-prone actions.
 
 ```javascript
-var TileliveError = require("tilelive-error");
+var TileliveError = require("tilelive-error")();
 
 var Source = function(uri, callback) {
   // doSomething is an expensive initalization operation
